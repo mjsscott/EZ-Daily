@@ -1,0 +1,232 @@
+/* General Styles */
+.home-container {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Navbar */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px; /* Adjust padding to prevent too much space */
+  background-color: #333;
+  color: white;
+  white-space: nowrap; /* Prevent wrapping */
+  overflow: hidden; /* Ensure no overflowing elements */
+}
+
+.navbar-left {
+  display: flex;
+  align-items: center;
+  flex-shrink: 1; /* Allow elements to shrink */
+}
+
+.logo {
+  width: 40px;
+  height: 40px;
+  margin-right: 15px;
+  flex-shrink: 0; /* Logo should not shrink */
+}
+
+.app-name {
+  font-size: 24px;
+  font-weight: bold;
+  margin-right: 20px;
+  flex-shrink: 0; /* App name should not shrink */
+}
+
+.nav-link {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  font-size: 18px;
+  flex-shrink: 1; /* Links can shrink */
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}
+
+.navbar-right {
+  display: flex;
+  justify-content: flex-end;
+  flex-shrink: 1; /* Buttons can shrink */
+}
+
+.btn {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin-left: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 4px;
+  flex-shrink: 0; /* Buttons should not shrink */
+}
+
+.btn:hover {
+  background-color: #45a049;
+}
+
+/* Hero Section */
+.hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 50px 30px;
+  background-color: #f4f4f4;
+  min-height: 100vh;
+}
+
+.hero-left {
+  max-width: 50%;
+}
+
+.hero-left h1 {
+  font-size: 4vw;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.hero-left p {
+  font-size: 2vw;
+  margin-bottom: 30px;
+}
+
+.hero-buttons {
+  display: flex;
+  gap: 15px;
+}
+
+.hero-right {
+  max-width: 40%;
+  display: flex;
+  justify-content: center; /* Center buttons horizontally */
+  align-items: center;
+  flex-direction: column;
+}
+
+.hero-right img {
+  width: 100%;
+  height: auto;
+}
+
+/* Bigger buttons */
+.hero-right .btn {
+  padding: 20px 40px; /* Increased padding for bigger buttons */
+  font-size: 1.5rem; /* Increased font size */
+  margin: 10px 0;
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  width: 200px; /* Set a fixed width to make buttons more consistent */
+}
+
+.hero-right .btn:hover {
+  background-color: #45a049;
+}
+
+/* Responsive Design for Typography and Buttons */
+@media (max-width: 1024px) {
+  .hero-left h1 {
+    font-size: 5vw;
+  }
+
+  .hero-left p {
+    font-size: 3vw;
+  }
+
+  .hero-right .btn {
+    padding: 18px 36px; /* Adjust padding for slightly smaller screens */
+    font-size: 1.2rem; /* Smaller font size for buttons */
+    width: 180px; /* Slightly smaller width for tablets */
+  }
+}
+
+@media (max-width: 768px) {
+  .hero-left h1 {
+    font-size: 6vw;
+  }
+
+  .hero-left p {
+    font-size: 4vw;
+  }
+
+  .hero-right .btn {
+    padding: 16px 32px; /* Even smaller padding for mobile */
+    font-size: 1rem; /* Smaller font size for buttons */
+    width: 150px; /* Smaller width for mobile devices */
+  }
+}
+
+@media (max-width: 768px) {
+  .hero-right {
+    display: none;
+  }
+
+  .hero-left {
+    width: 100%; /* Take up full width when hero-right is hidden */
+    text-align: center; /* Optional: center-align content on smaller screens */
+  }
+}
+        
+
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+  .navbar {
+    padding: 10px 15px; /* Adjust navbar padding */
+  }
+
+  .navbar-left .logo {
+    width: 30px; /* Smaller logo on smaller screens */
+    height: 30px;
+  }
+
+  .navbar-left .app-name {
+    font-size: 20px; /* Smaller app name */
+    margin-right: 10px;
+  }
+
+  .nav-link {
+    font-size: 16px; /* Smaller nav links */
+    margin: 0 10px; /* Reduced space between links */
+  }
+
+  .btn {
+    padding: 8px 16px; /* Smaller buttons */
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 768px) {
+  .navbar {
+    padding: 10px 10px; /* Further adjust padding for smaller screens */
+  }
+
+  .navbar-left .logo {
+    width: 25px; /* Even smaller logo */
+    height: 25px;
+  }
+
+  .navbar-left .app-name {
+    font-size: 18px; /* Even smaller app name */
+    margin-right: 8px;
+  }
+
+  .nav-link {
+    font-size: 14px; /* Smaller nav links */
+    margin: 0 8px; /* Reduced space between links */
+  }
+
+  .btn {
+    padding: 6px 12px; /* Smaller buttons */
+    font-size: 12px;
+  }
+}

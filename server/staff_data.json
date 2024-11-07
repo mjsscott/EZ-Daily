@@ -1,0 +1,780 @@
+[
+    {
+        "name": "Ashley Allen",
+        "roles": [
+            "set",
+            "design",
+            "admin"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.693510",
+                "endDate": "2024-11-17T10:05:46.693510"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Christie Brown",
+        "roles": [
+            "admin"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.693773",
+                "endDate": "2024-11-25T10:05:46.693773"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Michael Avila",
+        "roles": [
+            "design",
+            "set"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.694015",
+                "endDate": "2024-11-19T10:05:46.694015"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "William Kramer",
+        "roles": [
+            "set",
+            "admin",
+            "buyer"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.694272",
+                "endDate": "2024-11-16T10:05:46.694272"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Michael Booker",
+        "roles": [
+            "admin",
+            "set",
+            "design"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.694517",
+                "endDate": "2024-12-02T10:05:46.694517"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Jamie Cowan",
+        "roles": [
+            "set",
+            "admin"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.694743",
+                "endDate": "2024-12-07T10:05:46.694743"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Andrew Henderson",
+        "roles": [
+            "design",
+            "admin",
+            "buyer",
+            "set"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.695101",
+                "endDate": "2024-12-20T10:05:46.695101"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Kristin Reid",
+        "roles": [
+            "admin",
+            "buyer"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.695365",
+                "endDate": "2024-11-24T10:05:46.695365"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Janet May",
+        "roles": [
+            "buyer",
+            "admin"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.695566",
+                "endDate": "2025-01-03T10:05:46.695566"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Manuel Carroll",
+        "roles": [
+            "design",
+            "set"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.695744",
+                "endDate": "2024-12-02T10:05:46.695744"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Donna Ryan DVM",
+        "roles": [
+            "design",
+            "buyer",
+            "set",
+            "admin"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.695962",
+                "endDate": "2024-12-20T10:05:46.695962"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Mr. Jason Levy",
+        "roles": [
+            "admin",
+            "design"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.696160",
+                "endDate": "2024-12-03T10:05:46.696160"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Christopher Rivera",
+        "roles": [
+            "buyer"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.696363",
+                "endDate": "2024-11-13T10:05:46.696363"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Zachary Jackson",
+        "roles": [
+            "admin",
+            "buyer",
+            "set",
+            "design"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.696579",
+                "endDate": "2024-11-15T10:05:46.696579"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Randy Deleon",
+        "roles": [
+            "design",
+            "admin",
+            "buyer"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.696767",
+                "endDate": "2024-11-26T10:05:46.696767"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Ashley Bauer",
+        "roles": [
+            "buyer"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.696976",
+                "endDate": "2024-12-03T10:05:46.696976"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Jared Obrien",
+        "roles": [
+            "admin",
+            "buyer"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.697178",
+                "endDate": "2024-12-11T10:05:46.697178"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Lynn Cox",
+        "roles": [
+            "set",
+            "admin",
+            "buyer",
+            "design"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.697361",
+                "endDate": "2024-12-25T10:05:46.697361"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Dwayne Cooper",
+        "roles": [
+            "buyer",
+            "admin",
+            "set",
+            "design"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.697910",
+                "endDate": "2025-01-01T10:05:46.697910"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Tyler Frederick",
+        "roles": [
+            "design",
+            "admin",
+            "buyer"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.698190",
+                "endDate": "2024-11-18T10:05:46.698190"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Taylor Bennett",
+        "roles": [
+            "buyer",
+            "design",
+            "set",
+            "admin"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.698496",
+                "endDate": "2024-12-15T10:05:46.698496"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Mr. Sean Clark",
+        "roles": [
+            "set",
+            "buyer"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.698709",
+                "endDate": "2024-12-05T10:05:46.698709"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Joshua Turner",
+        "roles": [
+            "buyer"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.698965",
+                "endDate": "2024-11-17T10:05:46.698965"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Stacey Andrews",
+        "roles": [
+            "admin",
+            "set",
+            "buyer",
+            "design"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.699193",
+                "endDate": "2024-11-09T10:05:46.699193"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Jennifer Hughes",
+        "roles": [
+            "set",
+            "design"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.699398",
+                "endDate": "2024-12-17T10:05:46.699398"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Kristie Carter",
+        "roles": [
+            "buyer"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.699569",
+                "endDate": "2024-12-24T10:05:46.699569"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Janice Sherman",
+        "roles": [
+            "admin",
+            "buyer"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.699753",
+                "endDate": "2024-12-09T10:05:46.699753"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Heather Dodson",
+        "roles": [
+            "design",
+            "buyer"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.699935",
+                "endDate": "2024-12-06T10:05:46.699935"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Lisa Whitehead",
+        "roles": [
+            "set",
+            "admin",
+            "design",
+            "buyer"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.700122",
+                "endDate": "2024-11-23T10:05:46.700122"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Mark Bean",
+        "roles": [
+            "buyer",
+            "admin"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.700338",
+                "endDate": "2024-11-25T10:05:46.700338"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Brenda Roth",
+        "roles": [
+            "design"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.700519",
+                "endDate": "2024-11-27T10:05:46.700519"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Lisa Cole",
+        "roles": [
+            "admin",
+            "design"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.700787",
+                "endDate": "2024-12-05T10:05:46.700787"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Maria Mcgrath",
+        "roles": [
+            "admin",
+            "design",
+            "buyer"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.700985",
+                "endDate": "2024-11-25T10:05:46.700985"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Colin Smith",
+        "roles": [
+            "design",
+            "buyer",
+            "admin",
+            "set"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.701173",
+                "endDate": "2024-12-01T10:05:46.701173"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Tom Casey",
+        "roles": [
+            "design",
+            "set"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.701378",
+                "endDate": "2024-11-22T10:05:46.701378"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Gregory Gray",
+        "roles": [
+            "design"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.701568",
+                "endDate": "2024-11-22T10:05:46.701568"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Elizabeth Barker",
+        "roles": [
+            "design",
+            "admin",
+            "buyer",
+            "set"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.701741",
+                "endDate": "2024-12-04T10:05:46.701741"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Annette Newman",
+        "roles": [
+            "buyer",
+            "set",
+            "admin",
+            "design"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.701908",
+                "endDate": "2024-12-26T10:05:46.701908"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Trevor Freeman",
+        "roles": [
+            "admin",
+            "buyer"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.702088",
+                "endDate": "2024-12-06T10:05:46.702088"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Jerome Jones",
+        "roles": [
+            "set",
+            "buyer"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.702306",
+                "endDate": "2024-12-10T10:05:46.702306"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Eric Turner",
+        "roles": [
+            "set",
+            "design",
+            "buyer"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.702511",
+                "endDate": "2024-11-20T10:05:46.702511"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Brian Taylor",
+        "roles": [
+            "buyer"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.702683",
+                "endDate": "2024-12-22T10:05:46.702683"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Miguel Montoya",
+        "roles": [
+            "admin",
+            "design",
+            "buyer",
+            "set"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.702933",
+                "endDate": "2024-11-13T10:05:46.702933"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Debbie Juarez",
+        "roles": [
+            "buyer",
+            "design",
+            "admin"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.703133",
+                "endDate": "2024-12-28T10:05:46.703133"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Kristin Johnson",
+        "roles": [
+            "set",
+            "admin",
+            "design",
+            "buyer"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.703320",
+                "endDate": "2024-11-22T10:05:46.703320"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Martha Hall",
+        "roles": [
+            "buyer",
+            "set"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.703529",
+                "endDate": "2024-12-19T10:05:46.703529"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Traci Walters",
+        "roles": [
+            "buyer",
+            "admin",
+            "design",
+            "set"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.703711",
+                "endDate": "2024-12-19T10:05:46.703711"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Charlene Bailey",
+        "roles": [
+            "buyer",
+            "set"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.703878",
+                "endDate": "2024-11-29T10:05:46.703878"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Jay Bowen",
+        "roles": [
+            "buyer",
+            "admin",
+            "design"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.704060",
+                "endDate": "2024-12-21T10:05:46.704060"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    },
+    {
+        "name": "Carolyn Gonzales",
+        "roles": [
+            "set"
+        ],
+        "availability": [
+            {
+                "startDate": "2024-11-07T10:05:46.704277",
+                "endDate": "2024-12-10T10:05:46.704277"
+            }
+        ],
+        "cv": "",
+        "imdbLink": ""
+    }
+]
