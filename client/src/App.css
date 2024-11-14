@@ -3,3 +3,16 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+a {
+  color: #FFD700; /* For example, a gold color */
+  text-decoration: none; /* Optional: remove underline */
+}
+
+a:hover {
+  color: #FFA500; /* For example, an orange color */
+}
+
+a:visited {
+  color: #ffffff; /* Match the regular color to avoid purple visited links */
+}

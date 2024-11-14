@@ -1,0 +1,62 @@
+/* Wrapper container for the profile page */
+.info-container {
+  display: flex; /* Use flexbox to align items horizontally */
+  justify-content: space-between; /* Space out the profile and jobs-offers sections */
+  gap: 20px; /* Add some space between the left and right sections */
+  margin-top: 30px; /* Top margin to separate from the navbar */
+  margin-right: 30px;
+}
+
+/* Profile section on the left */
+.profile {
+  width: 30%; /* Fixed width for the profile section */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; /* Align profile content to the left */
+  gap: 20px; /* Space between profile elements */
+}
+
+/* Jobs and Offers container on the right */
+.jobs-offers {
+  display: flex;
+  flex-direction: column; /* Stack jobs and offers vertically */
+  gap: 20px; /* Space between the jobs and offers sections */
+  width: 65%; /* Take up the remaining space */
+}
+
+/* Make each individual section take full width and add padding */
+.jobs, .offers {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+  min-height: 180px;
+}
+
+/* Title for the profile and sections */
+h3 {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #000000;
+  margin-bottom: 15px;
+}
+
+
+/* Mobile responsiveness for small screens */
+@media (max-width: 768px) {
+  .info-container {
+    flex-direction: column; /* Stack sections vertically on smaller screens */
+    align-items: center; /* Center content */
+  }
+
+  .profile {
+    width: 100%; /* Make the profile section take full width on small screens */
+    align-items: center; /* Center profile content */
+  }
+
+  .jobs-offers {
+    width: 100%; /* Make the jobs-offers section take full width */
+    gap: 15px; /* Reduce gap between sections */
+  }
+}

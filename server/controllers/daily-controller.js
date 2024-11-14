@@ -16,28 +16,19 @@ const dailyController = {
     try {
      
       const { role, startDate, endDate } = req.query;
-      
-      let query = {};
-      if (role) {
-        query.roles = role;
-      }
-      if (startDate) {
-        query['availability.startDate'] = { $lte: new Date(startDate) };
-        // query['availability.endDate'] = { $gte: new Date(endDate) };
-      }
-      const matches = Daily.find({
-        "availability.startDate": {
-          $lte: new Date("2024-11-08T10:05:46.693Z")
-        }
-      }, (err, result) => {
-        if (err) {
-          console.log(err)
-        } else {
-          console.log(result);
-          res.status(200).json(result);
-        }
-      });
-      // res.status(200).json(matches);
+      const query = { roles: { $in: [role]}};
+      const roleMatches = await Daily.find(query);
+
+      const start = new Date(startDate);
+      const end = new Date(endDate);
+
+      const availableMatches = roleMatches.filter(doc => {
+        return doc.availability.some(period => {
+          return period.startDate <= start && period.endDate >= end;
+        })
+      })
+
+      res.status(200).json(availableMatches);
     } catch (err) {
       res.status(500).json({ message: "Error retreiving data", error: err});
       console.log(err);
@@ -46,5 +37,6 @@ const dailyController = {
   }
 
 }
+
 
 module.exports = dailyController;

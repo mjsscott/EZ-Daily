@@ -9,6 +9,13 @@ const dailySchema = new mongoose.Schema({
       required: false,
     }
   ], 
+  location: [
+    {
+      type: String,
+      enum: ['london', 'manchester',  'birmingham', 'liverpool'],
+      required: false,
+    }
+  ],
   availability: [
     {
       startDate: { type: Date, required: true},

@@ -1,6 +1,14 @@
-import React from "react";
+import { useState } from "react";
 import './HomePage.css';
+import LoginModal from "./LoginModal";
+import SignupModal from "./SignupModal";
+
+
+
 function HomePage() {
+  const [loginOpen, setLoginOpen] = useState(false);
+  const [signupOpen, setSignupOpen] = useState(false);
+
   return (
     <div className="home-container">
       {/* Navbar */}
@@ -8,13 +16,13 @@ function HomePage() {
 
         <div className="navbar-left">
           <span className="app-name">EZ-Daily</span>
-          <a href="/user-type-1" className="nav-link">Are you a daily?</a>
-          <a href="/user-type-2" className="nav-link">Are you a recruiter?</a>
+          <a href="/" className="nav-link">Are you a daily?</a>
+          <a href="/" className="nav-link">Are you a recruiter?</a>
         </div>
 
         <div className="navbar-right">
-        <button className="btn">Login</button>
-        <button className="btn">Sign Up</button>
+        <button className="btn"  onClick={() => setLoginOpen(true)}>Login</button>
+        <button className="btn" onClick={() => setSignupOpen(true)}>Sign Up</button>
         </div>
       </div>
 
@@ -24,10 +32,14 @@ function HomePage() {
           <h1>Find a daily the EZ way!</h1>
           <p>Sign up to search for costume staff looking for work... 
           <br/>  It's EZ to find a daily available in your location!</p>
+
           <div className="hero-buttons">
-            <button className="btn">Login</button>
-            <button className="btn">Sign Up</button>
+            <button className="btn" onClick={() => setLoginOpen(true)}>Login</button>
+            <LoginModal open={loginOpen} onClose={() => setLoginOpen(false)}>Login Modal</LoginModal>
+            <button className="btn" onClick={() => setSignupOpen(true)}>Sign Up</button>
+            <SignupModal open={signupOpen} onClose={() => setSignupOpen(false)}>Signup Modal</SignupModal>
           </div>
+
         </div>
 
         {/* Right Side - Images */}

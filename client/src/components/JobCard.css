@@ -1,0 +1,59 @@
+/* Job Card styles */
+.job-card {
+  background-color: #003049;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.job-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.job-header h4 {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+
+.job-details {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.job-details div {
+  font-size: 1rem;
+  color: #ffffff;
+}
+
+h3 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #003049;
+  margin-bottom: 15px;
+}
+
+/* JobCard.css */
+.job-card .view-button {
+  background-color: #F77F00;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin-left: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 20px;
+  flex-shrink: 0; /* Buttons should not shrink */
+}
+
+.job-card .view-button:hover {
+  background-color: #FCBF49;
+}

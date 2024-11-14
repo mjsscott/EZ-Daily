@@ -1,0 +1,65 @@
+.card-container {
+  width: 100%;
+  max-width: 600px; /* Set max width for cards */
+  margin: 16px auto; /* Center cards horizontally */
+  background-color: #fff; /* White background for the card */
+  border-radius: 10px; /* Rounded corners */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Light shadow for depth */
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition on hover */
+}
+
+.card-container:hover {
+  transform: translateY(-5px); /* Slight raise effect on hover */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* Stronger shadow on hover */
+}
+
+/* Card info section */
+.card-info {
+  display: flex;
+  flex-direction: column;
+  gap: 12px; /* Space between text elements */
+  width: 100%;
+}
+
+.card-info h2 {
+  font-size: 30px;
+  font-weight: bold;
+  color: #333; /* Dark text color */
+  margin-bottom: 8px;
+}
+
+.card-info p {
+  font-size: 14px;
+  color: #555; /* Lighter text color */
+  margin: 0;
+}
+
+/* Style for specific links inside the card (like imdbLink) */
+.card-info p a {
+  color: #F77F00; /* Link color */
+  text-decoration: none; /* Remove underline */
+  font-weight: 600;
+}
+
+.card-info p a:hover {
+  text-decoration: underline; /* Underline on hover */
+}
+
+/* Optional: Adjust card's responsiveness */
+@media (max-width: 768px) {
+  .card-container {
+    max-width: 100%; /* Take full width on smaller screens */
+    margin: 8px 0; /* Reduce margin for smaller screens */
+  }
+
+  .card-info h2 {
+    font-size: 18px; /* Slightly smaller title on smaller screens */
+  }
+
+  .card-info p {
+    font-size: 12px; /* Smaller text on smaller screens */
+  }
+}

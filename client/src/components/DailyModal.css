@@ -1,0 +1,63 @@
+/* Fullscreen overlay */
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+/* Modal content container */
+.modal-content {
+  background-color: #003049;
+  color: #FCBF49;
+  padding: 20px;
+  border-radius: 8px;
+  width: 100%;
+  position: relative;
+  align-items: center;
+  text-align: center;
+  max-width: 700px;
+}
+
+/* Style for the PDF viewer */
+
+
+/* Close button */
+.modal-close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: none;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+/* Container for the button to center it */
+.button-container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+/* Center the button within the modal */
+.offer-daily-button {
+  width: 100%;
+  max-width: 200px;
+  background-color: #F77F00;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  margin-top: 10px;
+}

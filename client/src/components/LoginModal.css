@@ -1,0 +1,126 @@
+.modal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  background-color: #003049;
+  padding: 50px;
+  z-index: 1100;
+  height: 60%;
+  border-radius: 6px;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: black;
+  z-index: 1000;
+  pointer-events: none;
+}
+
+.close-button {
+  background-color: #003049;
+  position: absolute;
+  bottom: 90%;
+  left: 90%;
+}
+
+.delete-img {
+  color: #EAE2B7;
+  background-color: #003049;
+  width: 30px;
+  height: 30px;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 9px;
+  width: 100%;
+}
+
+.text {
+  color: #FCBF49 ;
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.underline {
+  width: 61px;
+  height: 6px;
+  background-color: #FCBF49;
+  border-radius: 9px;
+}
+
+.inputs { 
+  margin-top: 55px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+.input {
+  display: flex;
+  align-items: center;
+  margin: auto;
+  width: 480px;  /* Ensure container is wide enough for the input */
+  height: 40px;
+  background-color: #EAE2B7;  /* Make sure the container has a background */
+  border-radius: 6px;
+  padding: 5px;  /* Optional: Add some padding for spacing */
+}
+
+.input input {
+  height: 40px;
+  width: 100%;  /* Stretch the input to fill the parent container */
+  background-color: white;  /* Make background white */
+  border: 1px solid #ccc;  /* Add a light border for visibility */
+  outline: none;
+  color: black;  /* Ensure text is visible */
+  font-size: 16px;
+  padding-left: 10px;  /* Add some padding for better readability */
+}
+
+
+.input-img {
+  height: 30px;
+  width: 30px;;
+}
+
+.submit-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+/* Basic button styling */
+.login-button {
+  height: 40px;
+  width: 80px;
+  background: linear-gradient(135deg, #F77F00 0%, #FCBF49 100%);
+  border: none;
+  border-radius: 8px;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  cursor: pointer;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease;
+}
+
+/* Hover effect for scaling and slight color change */
+.login-button:hover {
+  transform: scale(1.05);
+  background: linear-gradient(135deg, #D62828 0%, #F77F00 100%);
+  box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* Active effect for pressed state */
+.login-button:active {
+  transform: scale(0.95);
+  background: linear-gradient(135deg, #16a400 0%, #d6d300 100%);
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+}

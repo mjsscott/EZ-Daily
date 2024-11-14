@@ -1,0 +1,852 @@
+[
+  {
+    "name": "Orson Krennic",
+    "roles": [
+      "buyer"
+    ],
+    "location": [
+      "liverpool"
+    ],
+    "availability": [
+      {
+        "startDate": "2024-11-18T20:42:33.195Z",
+        "endDate": "2025-01-08T23:56:56.886Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm2194905"
+  },
+  {
+    "name": "Bail Organa",
+    "roles": [
+      "set"
+    ],
+    "location": [
+      "birmingham"
+    ],
+    "availability": [
+      {
+        "startDate": "2024-12-24T03:58:17.442Z",
+        "endDate": "2025-01-28T11:33:06.481Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm1380533"
+  },
+  {
+    "name": "Obi-Wan Kenobi",
+    "roles": [
+      "admin"
+    ],
+    "location": [
+      "birmingham"
+    ],
+    "availability": [
+      {
+        "startDate": "2024-12-19T13:25:29.420Z",
+        "endDate": "2024-11-28T10:32:08.412Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm8914370"
+  },
+  {
+    "name": "R2-D2",
+    "roles": [
+      "set"
+    ],
+    "location": [
+      "birmingham"
+    ],
+    "availability": [
+      {
+        "startDate": "2025-01-01T06:44:18.077Z",
+        "endDate": "2025-01-11T21:42:07.911Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm2716213"
+  },
+  {
+    "name": "Ahsoka Tano",
+    "roles": [
+      "set"
+    ],
+    "location": [
+      "manchester"
+    ],
+    "availability": [
+      {
+        "startDate": "2024-12-16T18:15:55.429Z",
+        "endDate": "2024-12-10T11:39:00.155Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm8259975"
+  },
+  {
+    "name": "IG-88",
+    "roles": [
+      "design"
+    ],
+    "location": [
+      "london"
+    ],
+    "availability": [
+      {
+        "startDate": "2025-01-08T10:32:56.470Z",
+        "endDate": "2025-01-07T21:42:58.110Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm8835221"
+  },
+  {
+    "name": "K-2SO",
+    "roles": [
+      "design"
+    ],
+    "location": [
+      "manchester"
+    ],
+    "availability": [
+      {
+        "startDate": "2024-11-14T09:01:04.827Z",
+        "endDate": "2025-01-04T11:57:34.396Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm3760782"
+  },
+  {
+    "name": "Obi-Wan Kenobi",
+    "roles": [
+      "buyer"
+    ],
+    "location": [
+      "london"
+    ],
+    "availability": [
+      {
+        "startDate": "2025-01-10T21:22:56.228Z",
+        "endDate": "2025-01-15T01:15:42.326Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm5180527"
+  },
+  {
+    "name": "Dengar",
+    "roles": [
+      "admin"
+    ],
+    "location": [
+      "birmingham"
+    ],
+    "availability": [
+      {
+        "startDate": "2024-12-15T08:42:20.421Z",
+        "endDate": "2025-01-09T05:22:45.960Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm2684692"
+  },
+  {
+    "name": "Jango Fett",
+    "roles": [
+      "set"
+    ],
+    "location": [
+      "liverpool"
+    ],
+    "availability": [
+      {
+        "startDate": "2024-12-24T22:42:21.939Z",
+        "endDate": "2024-12-26T08:45:11.436Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm9809870"
+  },
+  {
+    "name": "Chirrut Îmwe",
+    "roles": [
+      "set"
+    ],
+    "location": [
+      "birmingham"
+    ],
+    "availability": [
+      {
+        "startDate": "2025-01-21T04:25:08.777Z",
+        "endDate": "2024-11-30T08:44:23.804Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm6397391"
+  },
+  {
+    "name": "BB-8",
+    "roles": [
+      "set"
+    ],
+    "location": [
+      "liverpool"
+    ],
+    "availability": [
+      {
+        "startDate": "2025-01-05T02:40:25.927Z",
+        "endDate": "2024-11-14T22:23:01.929Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm2721632"
+  },
+  {
+    "name": "Mon Mothma",
+    "roles": [
+      "admin"
+    ],
+    "location": [
+      "liverpool"
+    ],
+    "availability": [
+      {
+        "startDate": "2025-01-17T08:17:08.750Z",
+        "endDate": "2024-11-24T08:34:53.501Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm4064665"
+  },
+  {
+    "name": "Rey Skywalker",
+    "roles": [
+      "design"
+    ],
+    "location": [
+      "london"
+    ],
+    "availability": [
+      {
+        "startDate": "2025-01-17T11:05:07.425Z",
+        "endDate": "2025-01-17T05:03:26.255Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm7300422"
+  },
+  {
+    "name": "Han Solo",
+    "roles": [
+      "set"
+    ],
+    "location": [
+      "liverpool"
+    ],
+    "availability": [
+      {
+        "startDate": "2025-01-11T18:57:07.505Z",
+        "endDate": "2024-12-26T03:26:03.414Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm1525260"
+  },
+  {
+    "name": "General Hux",
+    "roles": [
+      "set"
+    ],
+    "location": [
+      "manchester"
+    ],
+    "availability": [
+      {
+        "startDate": "2024-12-30T10:10:59.969Z",
+        "endDate": "2024-11-17T12:07:28.064Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm9216352"
+  },
+  {
+    "name": "Jango Fett",
+    "roles": [
+      "admin"
+    ],
+    "location": [
+      "liverpool"
+    ],
+    "availability": [
+      {
+        "startDate": "2025-01-03T23:09:58.518Z",
+        "endDate": "2025-01-13T11:53:15.084Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm7789690"
+  },
+  {
+    "name": "Darth Sidious",
+    "roles": [
+      "design"
+    ],
+    "location": [
+      "birmingham"
+    ],
+    "availability": [
+      {
+        "startDate": "2025-01-02T07:10:36.006Z",
+        "endDate": "2024-11-23T08:30:58.709Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm4754987"
+  },
+  {
+    "name": "Wedge Antilles",
+    "roles": [
+      "set"
+    ],
+    "location": [
+      "liverpool"
+    ],
+    "availability": [
+      {
+        "startDate": "2024-11-29T23:07:43.844Z",
+        "endDate": "2024-11-29T09:20:57.099Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm6866178"
+  },
+  {
+    "name": "Ahsoka Tano",
+    "roles": [
+      "buyer"
+    ],
+    "location": [
+      "manchester"
+    ],
+    "availability": [
+      {
+        "startDate": "2024-12-11T11:41:23.931Z",
+        "endDate": "2024-11-23T18:47:26.590Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm7101679"
+  },
+  {
+    "name": "Bail Organa",
+    "roles": [
+      "buyer"
+    ],
+    "location": [
+      "london"
+    ],
+    "availability": [
+      {
+        "startDate": "2025-01-14T13:20:49.118Z",
+        "endDate": "2024-12-22T13:47:31.346Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm3276567"
+  },
+  {
+    "name": "Ahsoka Tano",
+    "roles": [
+      "set"
+    ],
+    "location": [
+      "manchester"
+    ],
+    "availability": [
+      {
+        "startDate": "2024-12-13T11:08:03.607Z",
+        "endDate": "2024-12-10T00:21:58.502Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm6885129"
+  },
+  {
+    "name": "Ki-Adi-Mundi",
+    "roles": [
+      "design"
+    ],
+    "location": [
+      "london"
+    ],
+    "availability": [
+      {
+        "startDate": "2024-12-27T04:55:15.148Z",
+        "endDate": "2024-11-29T16:35:07.282Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm2903533"
+  },
+  {
+    "name": "Ahsoka Tano",
+    "roles": [
+      "set"
+    ],
+    "location": [
+      "liverpool"
+    ],
+    "availability": [
+      {
+        "startDate": "2024-12-24T07:54:59.005Z",
+        "endDate": "2025-01-25T17:11:03.475Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm6279893"
+  },
+  {
+    "name": "BB-8",
+    "roles": [
+      "set"
+    ],
+    "location": [
+      "birmingham"
+    ],
+    "availability": [
+      {
+        "startDate": "2025-01-28T14:46:02.290Z",
+        "endDate": "2024-12-30T14:46:04.435Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm9232462"
+  },
+  {
+    "name": "Padmé Amidala",
+    "roles": [
+      "set"
+    ],
+    "location": [
+      "liverpool"
+    ],
+    "availability": [
+      {
+        "startDate": "2024-12-23T14:31:32.275Z",
+        "endDate": "2024-12-16T03:41:55.995Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm1377982"
+  },
+  {
+    "name": "Qui-Gon Jinn",
+    "roles": [
+      "buyer"
+    ],
+    "location": [
+      "birmingham"
+    ],
+    "availability": [
+      {
+        "startDate": "2024-11-19T09:48:53.316Z",
+        "endDate": "2024-11-12T23:21:09.834Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm3280791"
+  },
+  {
+    "name": "Maz Kanata",
+    "roles": [
+      "design"
+    ],
+    "location": [
+      "liverpool"
+    ],
+    "availability": [
+      {
+        "startDate": "2025-01-28T22:45:12.411Z",
+        "endDate": "2024-11-20T17:52:17.876Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm6161693"
+  },
+  {
+    "name": "Plo Koon",
+    "roles": [
+      "admin"
+    ],
+    "location": [
+      "manchester"
+    ],
+    "availability": [
+      {
+        "startDate": "2025-01-06T19:37:29.927Z",
+        "endDate": "2024-12-25T10:33:04.921Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm2524450"
+  },
+  {
+    "name": "Orson Krennic",
+    "roles": [
+      "set"
+    ],
+    "location": [
+      "liverpool"
+    ],
+    "availability": [
+      {
+        "startDate": "2024-11-13T22:41:37.151Z",
+        "endDate": "2025-01-30T01:34:15.571Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm1610675"
+  },
+  {
+    "name": "Chirrut Îmwe",
+    "roles": [
+      "buyer"
+    ],
+    "location": [
+      "manchester"
+    ],
+    "availability": [
+      {
+        "startDate": "2024-12-03T20:49:08.461Z",
+        "endDate": "2024-12-24T18:54:35.199Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm2278618"
+  },
+  {
+    "name": "Anakin Skywalker",
+    "roles": [
+      "set"
+    ],
+    "location": [
+      "birmingham"
+    ],
+    "availability": [
+      {
+        "startDate": "2024-12-17T21:36:10.276Z",
+        "endDate": "2025-01-30T05:29:29.804Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm8736536"
+  },
+  {
+    "name": "Wedge Antilles",
+    "roles": [
+      "set"
+    ],
+    "location": [
+      "liverpool"
+    ],
+    "availability": [
+      {
+        "startDate": "2024-12-26T20:27:38.126Z",
+        "endDate": "2025-01-18T17:59:59.925Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm9097320"
+  },
+  {
+    "name": "Han Solo",
+    "roles": [
+      "design"
+    ],
+    "location": [
+      "london"
+    ],
+    "availability": [
+      {
+        "startDate": "2024-12-17T14:06:12.126Z",
+        "endDate": "2024-12-15T13:59:32.590Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm4702860"
+  },
+  {
+    "name": "Plo Koon",
+    "roles": [
+      "buyer"
+    ],
+    "location": [
+      "london"
+    ],
+    "availability": [
+      {
+        "startDate": "2024-12-15T11:41:26.984Z",
+        "endDate": "2025-01-28T09:51:10.344Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm5034092"
+  },
+  {
+    "name": "Shaak Ti",
+    "roles": [
+      "admin"
+    ],
+    "location": [
+      "liverpool"
+    ],
+    "availability": [
+      {
+        "startDate": "2024-12-21T15:18:16.415Z",
+        "endDate": "2024-12-04T02:04:46.866Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm7357550"
+  },
+  {
+    "name": "Kit Fisto",
+    "roles": [
+      "set"
+    ],
+    "location": [
+      "liverpool"
+    ],
+    "availability": [
+      {
+        "startDate": "2024-12-19T15:08:28.788Z",
+        "endDate": "2024-12-15T10:51:45.955Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm4168325"
+  },
+  {
+    "name": "Boba Fett",
+    "roles": [
+      "set"
+    ],
+    "location": [
+      "liverpool"
+    ],
+    "availability": [
+      {
+        "startDate": "2025-01-19T15:42:20.056Z",
+        "endDate": "2024-12-17T20:41:06.738Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm7665975"
+  },
+  {
+    "name": "R2-D2",
+    "roles": [
+      "design"
+    ],
+    "location": [
+      "liverpool"
+    ],
+    "availability": [
+      {
+        "startDate": "2024-11-30T08:02:28.487Z",
+        "endDate": "2024-11-17T07:54:48.838Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm1854720"
+  },
+  {
+    "name": "Ki-Adi-Mundi",
+    "roles": [
+      "design"
+    ],
+    "location": [
+      "liverpool"
+    ],
+    "availability": [
+      {
+        "startDate": "2024-12-14T05:30:16.304Z",
+        "endDate": "2024-12-21T21:05:52.106Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm6637791"
+  },
+  {
+    "name": "Lando Calrissian",
+    "roles": [
+      "design"
+    ],
+    "location": [
+      "liverpool"
+    ],
+    "availability": [
+      {
+        "startDate": "2024-11-30T14:09:01.633Z",
+        "endDate": "2024-11-30T14:23:50.455Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm6936143"
+  },
+  {
+    "name": "Qui-Gon Jinn",
+    "roles": [
+      "buyer"
+    ],
+    "location": [
+      "liverpool"
+    ],
+    "availability": [
+      {
+        "startDate": "2024-12-12T22:38:56.098Z",
+        "endDate": "2024-12-09T12:19:26.219Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm6315854"
+  },
+  {
+    "name": "Biggs Darklighter",
+    "roles": [
+      "set"
+    ],
+    "location": [
+      "liverpool"
+    ],
+    "availability": [
+      {
+        "startDate": "2024-11-25T18:20:57.155Z",
+        "endDate": "2024-11-21T23:42:18.698Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm3202225"
+  },
+  {
+    "name": "Saw Gerrera",
+    "roles": [
+      "buyer"
+    ],
+    "location": [
+      "liverpool"
+    ],
+    "availability": [
+      {
+        "startDate": "2024-12-10T16:56:51.880Z",
+        "endDate": "2024-12-28T19:03:59.088Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm6033005"
+  },
+  {
+    "name": "Finn",
+    "roles": [
+      "set"
+    ],
+    "location": [
+      "manchester"
+    ],
+    "availability": [
+      {
+        "startDate": "2024-12-16T11:08:14.209Z",
+        "endDate": "2024-12-13T10:22:37.840Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm4649288"
+  },
+  {
+    "name": "Ahsoka Tano",
+    "roles": [
+      "design"
+    ],
+    "location": [
+      "london"
+    ],
+    "availability": [
+      {
+        "startDate": "2025-01-05T11:28:47.425Z",
+        "endDate": "2024-12-06T07:10:44.356Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm9527108"
+  },
+  {
+    "name": "Yoda",
+    "roles": [
+      "design"
+    ],
+    "location": [
+      "birmingham"
+    ],
+    "availability": [
+      {
+        "startDate": "2025-01-04T21:10:26.659Z",
+        "endDate": "2025-01-23T00:41:55.849Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm7505598"
+  },
+  {
+    "name": "Orson Krennic",
+    "roles": [
+      "design"
+    ],
+    "location": [
+      "manchester"
+    ],
+    "availability": [
+      {
+        "startDate": "2024-11-22T17:01:17.137Z",
+        "endDate": "2024-12-08T18:28:10.283Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm3102774"
+  },
+  {
+    "name": "Yoda",
+    "roles": [
+      "design"
+    ],
+    "location": [
+      "manchester"
+    ],
+    "availability": [
+      {
+        "startDate": "2025-01-14T20:52:33.726Z",
+        "endDate": "2025-01-24T10:19:37.482Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm2519535"
+  },
+  {
+    "name": "Wedge Antilles",
+    "roles": [
+      "set"
+    ],
+    "location": [
+      "london"
+    ],
+    "availability": [
+      {
+        "startDate": "2024-11-15T20:01:31.545Z",
+        "endDate": "2025-01-15T07:30:01.247Z"
+      }
+    ],
+    "cv": "https://firebasestorage.googleapis.com/v0/b/ez-daily-90474.firebasestorage.app/o/CV's%2FJane_Doe_Costume_Designer_CV.pdf?alt=media&token=1c8cf8b2-8eb6-4014-b74d-c2291c84a229",
+    "imdbLink": "https://www.imdb.com/name/nm5966646"
+  }
+]

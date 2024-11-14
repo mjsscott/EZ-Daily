@@ -4,6 +4,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background-color: #EAE2B7;
 }
 
 /* Navbar */
@@ -12,13 +13,14 @@
   justify-content: space-between;
   align-items: center;
   padding: 10px 20px; /* Adjust padding to prevent too much space */
-  background-color: #333;
+  background-color: #003049;
   color: white;
   white-space: nowrap; /* Prevent wrapping */
   overflow: hidden; /* Ensure no overflowing elements */
 }
 
 .navbar-left {
+  color: #FCBF49;
   display: flex;
   align-items: center;
   flex-shrink: 1; /* Allow elements to shrink */
@@ -57,7 +59,7 @@
 }
 
 .btn {
-  background-color: #4CAF50;
+  background-color: #F77F00;
   color: white;
   border: none;
   padding: 10px 20px;
@@ -69,7 +71,7 @@
 }
 
 .btn:hover {
-  background-color: #45a049;
+  background-color: #FCBF49;
 }
 
 /* Hero Section */
@@ -78,12 +80,13 @@
   justify-content: space-between;
   align-items: center;
   padding: 50px 30px;
-  background-color: #f4f4f4;
+  color: #003049;
+  background-color: #EAE2B7;;
   min-height: 100vh;
 }
 
 .hero-left {
-  max-width: 50%;
+  align-items: center;
 }
 
 .hero-left h1 {
@@ -122,7 +125,7 @@
   margin: 10px 0;
   border-radius: 4px;
   cursor: pointer;
-  background-color: #4CAF50;
+  background-color: #F77F00;
   color: white;
   border: none;
   width: 200px; /* Set a fixed width to make buttons more consistent */
@@ -130,6 +133,17 @@
 
 .hero-right .btn:hover {
   background-color: #45a049;
+}
+
+.hero-buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.btn {
+  margin-left: 30px;
 }
 
 /* Responsive Design for Typography and Buttons */
