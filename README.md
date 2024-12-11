@@ -35,5 +35,5 @@
 For questions or feedback, reach out to:
 - **Name:** Michael Scott
 - **Email:** mjsscottcodes@gmail.com
-- **GitHub:** [Your GitHub Profile](https://github.com/mjsscott)
+- **GitHub:** [mjsscott](https://github.com/mjsscott)
 
